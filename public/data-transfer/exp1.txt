@@ -1,0 +1,4 @@
+Name,Class,Subject,Roll_no
+Rajeev,MCA,Computer Science,10001
+Amit,BCA,Computer Science,50002
+Nester,B.Tech,MBA IT,600581
